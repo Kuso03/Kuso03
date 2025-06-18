@@ -53,7 +53,7 @@ coffee_level: "MAXIMUM_OVERDRIVE ☕"
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuso&theme=chartreuse-dark&hide_border=true&background=0d1117" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Kuso&theme=chartreuse-dark&hide_border=true&background=0d1117" alt="Streak Stats"/>
 </div>
 
 ---
@@ -197,10 +197,10 @@ class DigitalSamurai:
 
 ---
 
-## 🌙 NIGHT MODE CONTRIBUTION SNAKE
+## 🌙 CONTRIBUTION HEATMAP
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kuso/Kuso/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuso&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
