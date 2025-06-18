@@ -53,7 +53,7 @@ coffee_level: "MAXIMUM_OVERDRIVE ☕"
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kuso03&theme=chartreuse-dark&hide_border=true&background=0d1117" alt="Streak Stats"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Kuso03&theme=chartreuse-dark&hide_border=true&background=0d1117" alt="Streak Stats"/>
 </div>
 
 ---
@@ -174,7 +174,9 @@ class DigitalSamurai:
 
 <div align="center">
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=314rzu33gifasvmpvonanxqgv364&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=314rzu33gifasvmpvonanxqgv364&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=314rzu33gifasvmpvonanxqgv364&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=314rzu33gifasvmpvonanxqgv364&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing">
+</a>
 
 </div>
 
