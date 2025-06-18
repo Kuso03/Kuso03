@@ -170,28 +170,33 @@ class DigitalSamurai:
 
 ---
 
-## 🎵 VIBING TO: WAVE TO EARTH SEASONS
+## 🎵 SPOTIFY: CURRENTLY VIBING
 
 <div align="center">
 
-### 🌊 Currently Lost in Wave to Earth Vibes 🌊
+### 🎧 What I'm Listening To Right Now 🎧
 
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314rzu33gifasvmpvonanxqgv364&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ff41&bar_color_cover=true)](https://open.spotify.com/user/314rzu33gifasvmpvonanxqgv364)
+
+**🔥 CURRENT MOOD:**
+```ascii
+🎵 ████████████████████████████▒▒▒▒▒▒ 80%
+   ┌─ Currently Playing ─┐
+   │ 🌊 Wave to Earth     │
+   │ 🎸 Indie/Alternative │
+   │ ☕ Coding Vibes      │
+   └─────────────────────┘
 ```
-♪ Now Playing: seasons - wave to earth ♪
-┌─────────────────────────────────────┐
-│ ████████████████████████████▒▒▒▒▒▒ │
-│ ◄◄⠀▐▐⠀►► 𝟸:𝟷𝟾 / 𝟹:𝟻𝟼 ⠀──○─ 🔊 │
-└─────────────────────────────────────┘
-```
 
-**🎧 SIGMA PLAYLIST:**
-- seasons - wave to earth
-- pueblo - wave to earth  
-- bad - wave to earth
-- daisy. - wave to earth
-- sunny days - wave to earth
+**🎼 SIGMA CODING PLAYLIST:**
+- 🌙 seasons - wave to earth
+- 🏙️ pueblo - wave to earth  
+- 💫 bad - wave to earth
+- 🌸 daisy. - wave to earth
+- ☀️ sunny days - wave to earth
+- 🌊 light - wave to earth
 
-*"Music for late-night coding sessions and digital meditation"*
+*"Perfect soundtrack for midnight hacking sessions"*
 
 </div>
 
