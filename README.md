@@ -53,8 +53,7 @@ coffee_level: "MAXIMUM_OVERDRIVE ☕"
 </div>
 
 <div align="center">
- <img src="https://github-readme-streak-stats-bmkl.vercel.app/api?user=Kuso03&theme=dark&hide_border=true&background=0d1117"
- alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuso03&theme=chartreuse-dark&hide_border=true&background=0d1117" />
 </div>
 
 ---
