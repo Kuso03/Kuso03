@@ -52,8 +52,9 @@ coffee_level: "MAXIMUM_OVERDRIVE ☕"
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuso03&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
 </div>
 
-
-![Metrics](https://metrics.lecoq.io/Kuso03?template=terminal&base.header=0&base.activity=1&config.timezone=Asia%2FJakarta)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuso03/Kuso03/main/github-metrics.svg" alt="GitHub Metrics"/>
+</div>
 
 
 ---
