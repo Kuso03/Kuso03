@@ -53,7 +53,7 @@ coffee_level: "MAXIMUM_OVERDRIVE ☕"
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuso03&theme=chartreuse-dark&hide_border=true&background=0d1117" />
+![Metrics](https://metrics.lecoq.io/Kuso03?template=terminal&base.header=0&base.activity=1&config.timezone=Asia%2FJakarta)
 </div>
 
 ---
