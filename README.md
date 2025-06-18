@@ -48,8 +48,8 @@ coffee_level: "MAXIMUM_OVERDRIVE ☕"
 ## 🔥 SIGMA METRICS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kuso&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuso&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kuso03&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuso03&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
