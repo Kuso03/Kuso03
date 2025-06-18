@@ -174,7 +174,7 @@ class DigitalSamurai:
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314rzu33gifasvmpvonanxqgv364&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00ff41&bar_color_cover=false)](https://open.spotify.com/user/314rzu33gifasvmpvonanxqgv364)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=314rzu33gifasvmpvonanxqgv364&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=314rzu33gifasvmpvonanxqgv364&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 
 </div>
 
