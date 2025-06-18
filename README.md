@@ -53,7 +53,7 @@ coffee_level: "MAXIMUM_OVERDRIVE ☕"
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kuso03/Kuso03/main/github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuso03" alt="GitHub Streak Stats"/>
 </div>
 
 
