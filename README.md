@@ -170,42 +170,54 @@ class DigitalSamurai:
 
 ---
 
-## 🎵 SPOTIFY: CURRENTLY VIBING
+## 🎵 CURRENTLY VIBING TO
 
 <div align="center">
 
-### 🎧 What I'm Listening To Right Now 🎧
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314rzu33gifasvmpvonanxqgv364&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ff41&bar_color_cover=true)](https://open.spotify.com/user/314rzu33gifasvmpvonanxqgv364)
-
-**🔥 CURRENT MOOD:**
-```ascii
-🎵 ████████████████████████████▒▒▒▒▒▒ 80%
-   ┌─ Currently Playing ─┐
-   │ 🌊 Wave to Earth     │
-   │ 🎸 Indie/Alternative │
-   │ ☕ Coding Vibes      │
-   └─────────────────────┘
-```
-
-**🎼 SIGMA CODING PLAYLIST:**
-- 🌙 seasons - wave to earth
-- 🏙️ pueblo - wave to earth  
-- 💫 bad - wave to earth
-- 🌸 daisy. - wave to earth
-- ☀️ sunny days - wave to earth
-- 🌊 light - wave to earth
-
-*"Perfect soundtrack for midnight hacking sessions"*
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314rzu33gifasvmpvonanxqgv364&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00ff41&bar_color_cover=false)](https://open.spotify.com/user/314rzu33gifasvmpvonanxqgv364)
 
 </div>
 
 ---
 
-## 🌙 CONTRIBUTION HEATMAP
+## 🐍 CONTRIBUTION SNAKE GAME
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuso&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🎮 RETRO GAME ZONE
+
+<div align="center">
+
+### 🕹️ CLASSIC ARCADE VIBES 🕹️
+
+```
+    🎮 GAME OVER 🎮
+   ┌─────────────────┐
+   │ ░░░░▓▓▓▓░░░░    │
+   │ ░▓░░▓▓▓▓░░▓░    │  
+   │ ░░░░▓▓▓▓░░░░    │  MARIO: ⭐⭐⭐⭐⭐
+   │ ░▓▓▓░░░░▓▓▓░    │  SCORE: 999999
+   │ ░░░░░░░░░░░░    │  LIVES: ∞
+   └─────────────────┘
+```
+
+**🏆 GAMING ACHIEVEMENTS:**
+```
+🐍 Snake Master    ████████████ 100%
+🍄 Mario Bros      ██████████▒▒  85%
+⚡ Pokemon Trainer ████████▒▒▒▒  75%
+👾 Pac-Man Legend  ██████▒▒▒▒▒▒  60%
+🎯 Tetris Pro      ████████████ 100%
+```
+
 </div>
 
 ---
