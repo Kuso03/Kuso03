@@ -35,19 +35,3 @@ Informatics Student at Universitas Sebelas Maret (UNS) with a strong interest in
 - **Samsung Innovation Campus (2026):** Participant in an intensive program covering software development, IoT fundamentals, and AI-driven problem solving.
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kuso03&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuso03&layout=compact&langs_count=6&theme=github_dark&hide_border=true"/>
-</div>
-
----
-
-### 🎵 Currently Listening To
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=314rzu33gifasvmpvonanxqgv364&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=314rzu33gifasvmpvonanxqgv364&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing">
-  </a>
-</div>
